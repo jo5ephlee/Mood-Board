@@ -15,19 +15,19 @@ main {
     padding: 20px;
 }
 
-.genre {
+.mood {
     margin-bottom: 30px;
 }
 
-.genre h2 {
+.mood h2 {
     color: #177245; /* Darker green color */
 }
 
-.genre p {
+.mood p {
     color: #666;
 }
 
-.genre a {
+.mood a {
     display: inline-block;
     background-color: #1DB954; /* Original green color */
     color: white;
@@ -43,7 +43,7 @@ main {
     font-weight: bold; /* Bold font weight */
 }
 
-.genre a:hover {
+.mood a:hover {
     background-color: #177245; /* darker green color */
 }
 
