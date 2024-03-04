@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #1DB954;
+    background-color: #177245; /* Darker green color */
     color: white;
     padding: 20px;
     text-align: center;
@@ -20,7 +20,7 @@ main {
 }
 
 .genre h2 {
-    color: #1DB954;
+    color: #177245; /* Darker green color */
 }
 
 .genre p {
@@ -29,7 +29,7 @@ main {
 
 .genre a {
     display: inline-block;
-    background-color: #1DB954;
+    background-color: #177245; /* Darker green color */
     color: white;
     padding: 10px 20px;
     text-decoration: none;
@@ -38,11 +38,11 @@ main {
 }
 
 .genre a:hover {
-    background-color: #1ED760;
+    background-color: #1DB954; /* Original green color */
 }
 
 footer {
-    background-color: #1DB954;
+    background-color: #177245; /* Darker green color */
     color: white;
     text-align: center;
     padding: 10px;
