@@ -29,16 +29,22 @@ main {
 
 .genre a {
     display: inline-block;
-    background-color: #177245; /* Darker green color */
+    background-color: #1DB954; /* Original green color */
     color: white;
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s;
+    border: none; /* Remove default link underline */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    text-align: center; /* Center text horizontally */
+    line-height: 1; /* Ensure button height matches text height */
+    font-size: 16px; /* Adjust font size if needed */
+    font-weight: bold; /* Bold font weight */
 }
 
 .genre a:hover {
-    background-color: #1DB954; /* Original green color */
+    background-color: #177245; /* Original green color */
 }
 
 footer {
