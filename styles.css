@@ -44,7 +44,7 @@ main {
 }
 
 .genre a:hover {
-    background-color: #177245; /* Original green color */
+    background-color: #177245; /* darker green color */
 }
 
 footer {
